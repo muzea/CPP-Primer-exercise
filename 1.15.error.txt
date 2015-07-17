@@ -1,0 +1,21 @@
+1.15.cpp
+1.15.cpp(6) : error C2143: syntax error : missing '}' before ':'
+1.15.cpp(6) : error C2143: syntax error : missing ')' before ':'
+1.15.cpp(6) : error C2448: 'main' : function-style initializer appears to be a function definition
+1.15.cpp(8) : error C2143: syntax error : missing ';' before '<<'
+1.15.cpp(8) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1.15.cpp(8) : error C2371: 'std::cout' : redefinition; different basic types
+        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iostream(27) : see declaration of 'std::cout'
+1.15.cpp(10) : error C2143: syntax error : missing ';' before '<<'
+1.15.cpp(10) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1.15.cpp(10) : error C2371: 'std::cout' : redefinition; different basic types
+        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iostream(27) : see declaration of 'std::cout'
+1.15.cpp(13) : error C2143: syntax error : missing ';' before '>>'
+1.15.cpp(13) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1.15.cpp(13) : error C2371: 'std::cin' : redefinition; different basic types
+        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iostream(26) : see declaration of 'std::cin'
+1.15.cpp(15) : error C2143: syntax error : missing ';' before '<<'
+1.15.cpp(15) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1.15.cpp(16) : error C2059: syntax error : 'return'
+1.15.cpp(17) : error C2143: syntax error : missing ';' before '}'
+1.15.cpp(17) : error C2059: syntax error : '}'

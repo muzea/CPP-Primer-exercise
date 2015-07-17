@@ -5,6 +5,8 @@ def clean( path ):
   mark = 1 
   file_list = os.listdir(path)
   for file_obj in file_list:
+    if file_obj[0] == '.':
+        continue
     if os.path.isdir(path+'/'+file_obj):
         clean(path+'/'+file_obj)
         continue
